@@ -1,13 +1,5 @@
 # 2016 June 9th
 
-# fork repo web address
-# git clone the repo
-
-# write code
-
-# git commit
-# git push
-
 ### Introduction
 
 This second programming assignment will require you to write an R
